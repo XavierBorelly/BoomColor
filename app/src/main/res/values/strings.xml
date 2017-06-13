@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BoomColor</string>
+    <string name="title_activity_acceuil">AcceuilActivity</string>v
+    <string name="largeur">Largeur</string>
+    <string name="hauteur">hauteur</string>
+    <string name="validation">Validation</string>
+    <string name="valeur_de_base">5</string>
+    <string name="cancel">Okai j\'ai pris note</string>
+    <string name="alerte">Attention! Si vous générer une grille trop grande, l\'application peut mettre un certain temps a ce lancer et surtout les boutons serons tout petit!</string>
+    <string name="bouton_actif">push me !</string>
+</resources>
